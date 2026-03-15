@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\First_Project\bin\Debug\net8.0\First_Project.exe
+D:\JOBS-2026\C#_Course\First_Project\bin\Debug\net8.0\First_Project.deps.json
+D:\JOBS-2026\C#_Course\First_Project\bin\Debug\net8.0\First_Project.runtimeconfig.json
+D:\JOBS-2026\C#_Course\First_Project\bin\Debug\net8.0\First_Project.dll
+D:\JOBS-2026\C#_Course\First_Project\bin\Debug\net8.0\First_Project.pdb
+D:\JOBS-2026\C#_Course\First_Project\obj\Debug\net8.0\First_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\First_Project\obj\Debug\net8.0\First_Project.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\First_Project\obj\Debug\net8.0\First_Project.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\First_Project\obj\Debug\net8.0\First_Project.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\First_Project\obj\Debug\net8.0\First_Project.sourcelink.json
+D:\JOBS-2026\C#_Course\First_Project\obj\Debug\net8.0\First_Project.dll
+D:\JOBS-2026\C#_Course\First_Project\obj\Debug\net8.0\refint\First_Project.dll
+D:\JOBS-2026\C#_Course\First_Project\obj\Debug\net8.0\First_Project.pdb
+D:\JOBS-2026\C#_Course\First_Project\obj\Debug\net8.0\First_Project.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\First_Project\obj\Debug\net8.0\ref\First_Project.dll
