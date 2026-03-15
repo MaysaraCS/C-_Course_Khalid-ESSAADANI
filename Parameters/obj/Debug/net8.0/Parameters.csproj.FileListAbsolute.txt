@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\Parameters\bin\Debug\net8.0\Parameters.exe
+D:\JOBS-2026\C#_Course\Parameters\bin\Debug\net8.0\Parameters.deps.json
+D:\JOBS-2026\C#_Course\Parameters\bin\Debug\net8.0\Parameters.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Parameters\bin\Debug\net8.0\Parameters.dll
+D:\JOBS-2026\C#_Course\Parameters\bin\Debug\net8.0\Parameters.pdb
+D:\JOBS-2026\C#_Course\Parameters\obj\Debug\net8.0\Parameters.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Parameters\obj\Debug\net8.0\Parameters.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Parameters\obj\Debug\net8.0\Parameters.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Parameters\obj\Debug\net8.0\Parameters.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Parameters\obj\Debug\net8.0\Parameters.sourcelink.json
+D:\JOBS-2026\C#_Course\Parameters\obj\Debug\net8.0\Parameters.dll
+D:\JOBS-2026\C#_Course\Parameters\obj\Debug\net8.0\refint\Parameters.dll
+D:\JOBS-2026\C#_Course\Parameters\obj\Debug\net8.0\Parameters.pdb
+D:\JOBS-2026\C#_Course\Parameters\obj\Debug\net8.0\Parameters.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Parameters\obj\Debug\net8.0\ref\Parameters.dll
