@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\Loops\bin\Debug\net8.0\Loops.exe
+D:\JOBS-2026\C#_Course\Loops\bin\Debug\net8.0\Loops.deps.json
+D:\JOBS-2026\C#_Course\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Loops\bin\Debug\net8.0\Loops.dll
+D:\JOBS-2026\C#_Course\Loops\bin\Debug\net8.0\Loops.pdb
+D:\JOBS-2026\C#_Course\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Loops\obj\Debug\net8.0\Loops.sourcelink.json
+D:\JOBS-2026\C#_Course\Loops\obj\Debug\net8.0\Loops.dll
+D:\JOBS-2026\C#_Course\Loops\obj\Debug\net8.0\refint\Loops.dll
+D:\JOBS-2026\C#_Course\Loops\obj\Debug\net8.0\Loops.pdb
+D:\JOBS-2026\C#_Course\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Loops\obj\Debug\net8.0\ref\Loops.dll
