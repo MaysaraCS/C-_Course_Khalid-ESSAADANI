@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\Operators\bin\Debug\net8.0\Operators.exe
+D:\JOBS-2026\C#_Course\Operators\bin\Debug\net8.0\Operators.deps.json
+D:\JOBS-2026\C#_Course\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Operators\bin\Debug\net8.0\Operators.dll
+D:\JOBS-2026\C#_Course\Operators\bin\Debug\net8.0\Operators.pdb
+D:\JOBS-2026\C#_Course\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Operators\obj\Debug\net8.0\Operators.sourcelink.json
+D:\JOBS-2026\C#_Course\Operators\obj\Debug\net8.0\Operators.dll
+D:\JOBS-2026\C#_Course\Operators\obj\Debug\net8.0\refint\Operators.dll
+D:\JOBS-2026\C#_Course\Operators\obj\Debug\net8.0\Operators.pdb
+D:\JOBS-2026\C#_Course\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Operators\obj\Debug\net8.0\ref\Operators.dll
