@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\Struct_and_Enum\bin\Debug\net8.0\Struct_and_Enum.exe
+D:\JOBS-2026\C#_Course\Struct_and_Enum\bin\Debug\net8.0\Struct_and_Enum.deps.json
+D:\JOBS-2026\C#_Course\Struct_and_Enum\bin\Debug\net8.0\Struct_and_Enum.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Struct_and_Enum\bin\Debug\net8.0\Struct_and_Enum.dll
+D:\JOBS-2026\C#_Course\Struct_and_Enum\bin\Debug\net8.0\Struct_and_Enum.pdb
+D:\JOBS-2026\C#_Course\Struct_and_Enum\obj\Debug\net8.0\Struct_and_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Struct_and_Enum\obj\Debug\net8.0\Struct_and_Enum.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Struct_and_Enum\obj\Debug\net8.0\Struct_and_Enum.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Struct_and_Enum\obj\Debug\net8.0\Struct_and_Enum.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Struct_and_Enum\obj\Debug\net8.0\Struct_and_Enum.sourcelink.json
+D:\JOBS-2026\C#_Course\Struct_and_Enum\obj\Debug\net8.0\Struct_and_Enum.dll
+D:\JOBS-2026\C#_Course\Struct_and_Enum\obj\Debug\net8.0\refint\Struct_and_Enum.dll
+D:\JOBS-2026\C#_Course\Struct_and_Enum\obj\Debug\net8.0\Struct_and_Enum.pdb
+D:\JOBS-2026\C#_Course\Struct_and_Enum\obj\Debug\net8.0\Struct_and_Enum.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Struct_and_Enum\obj\Debug\net8.0\ref\Struct_and_Enum.dll
