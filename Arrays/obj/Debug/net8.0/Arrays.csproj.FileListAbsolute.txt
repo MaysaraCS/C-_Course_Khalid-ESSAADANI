@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+D:\JOBS-2026\C#_Course\Arrays\bin\Debug\net8.0\Arrays.exe
+D:\JOBS-2026\C#_Course\Arrays\bin\Debug\net8.0\Arrays.deps.json
+D:\JOBS-2026\C#_Course\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Arrays\bin\Debug\net8.0\Arrays.dll
+D:\JOBS-2026\C#_Course\Arrays\bin\Debug\net8.0\Arrays.pdb
+D:\JOBS-2026\C#_Course\Arrays\obj\Debug\net8.0\Arrays.dll
+D:\JOBS-2026\C#_Course\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+D:\JOBS-2026\C#_Course\Arrays\obj\Debug\net8.0\Arrays.pdb
+D:\JOBS-2026\C#_Course\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Arrays\obj\Debug\net8.0\ref\Arrays.dll
