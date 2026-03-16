@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\Virtual_Methods\bin\Debug\net8.0\Virtual_Methods.exe
+D:\JOBS-2026\C#_Course\Virtual_Methods\bin\Debug\net8.0\Virtual_Methods.deps.json
+D:\JOBS-2026\C#_Course\Virtual_Methods\bin\Debug\net8.0\Virtual_Methods.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Virtual_Methods\bin\Debug\net8.0\Virtual_Methods.dll
+D:\JOBS-2026\C#_Course\Virtual_Methods\bin\Debug\net8.0\Virtual_Methods.pdb
+D:\JOBS-2026\C#_Course\Virtual_Methods\obj\Debug\net8.0\Virtual_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Virtual_Methods\obj\Debug\net8.0\Virtual_Methods.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Virtual_Methods\obj\Debug\net8.0\Virtual_Methods.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Virtual_Methods\obj\Debug\net8.0\Virtual_Methods.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Virtual_Methods\obj\Debug\net8.0\Virtual_Methods.sourcelink.json
+D:\JOBS-2026\C#_Course\Virtual_Methods\obj\Debug\net8.0\Virtual_Methods.dll
+D:\JOBS-2026\C#_Course\Virtual_Methods\obj\Debug\net8.0\refint\Virtual_Methods.dll
+D:\JOBS-2026\C#_Course\Virtual_Methods\obj\Debug\net8.0\Virtual_Methods.pdb
+D:\JOBS-2026\C#_Course\Virtual_Methods\obj\Debug\net8.0\Virtual_Methods.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Virtual_Methods\obj\Debug\net8.0\ref\Virtual_Methods.dll
