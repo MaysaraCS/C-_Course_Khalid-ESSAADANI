@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\new_and_override\bin\Debug\net8.0\new_and_override.exe
+D:\JOBS-2026\C#_Course\new_and_override\bin\Debug\net8.0\new_and_override.deps.json
+D:\JOBS-2026\C#_Course\new_and_override\bin\Debug\net8.0\new_and_override.runtimeconfig.json
+D:\JOBS-2026\C#_Course\new_and_override\bin\Debug\net8.0\new_and_override.dll
+D:\JOBS-2026\C#_Course\new_and_override\bin\Debug\net8.0\new_and_override.pdb
+D:\JOBS-2026\C#_Course\new_and_override\obj\Debug\net8.0\new_and_override.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\new_and_override\obj\Debug\net8.0\new_and_override.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\new_and_override\obj\Debug\net8.0\new_and_override.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\new_and_override\obj\Debug\net8.0\new_and_override.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\new_and_override\obj\Debug\net8.0\new_and_override.sourcelink.json
+D:\JOBS-2026\C#_Course\new_and_override\obj\Debug\net8.0\new_and_override.dll
+D:\JOBS-2026\C#_Course\new_and_override\obj\Debug\net8.0\refint\new_and_override.dll
+D:\JOBS-2026\C#_Course\new_and_override\obj\Debug\net8.0\new_and_override.pdb
+D:\JOBS-2026\C#_Course\new_and_override\obj\Debug\net8.0\new_and_override.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\new_and_override\obj\Debug\net8.0\ref\new_and_override.dll

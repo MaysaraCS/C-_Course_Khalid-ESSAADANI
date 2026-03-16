@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Virtual_Methods
 {
     abstract class Person
