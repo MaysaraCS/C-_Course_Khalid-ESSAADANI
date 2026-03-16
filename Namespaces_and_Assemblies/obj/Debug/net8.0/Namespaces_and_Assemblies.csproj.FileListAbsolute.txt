@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\bin\Debug\net8.0\Namespaces_and_Assemblies.exe
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\bin\Debug\net8.0\Namespaces_and_Assemblies.deps.json
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\bin\Debug\net8.0\Namespaces_and_Assemblies.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\bin\Debug\net8.0\Namespaces_and_Assemblies.dll
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\bin\Debug\net8.0\Namespaces_and_Assemblies.pdb
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\obj\Debug\net8.0\Namespaces_and_Assemblies.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\obj\Debug\net8.0\Namespaces_and_Assemblies.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\obj\Debug\net8.0\Namespaces_and_Assemblies.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\obj\Debug\net8.0\Namespaces_and_Assemblies.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\obj\Debug\net8.0\Namespaces_and_Assemblies.sourcelink.json
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\obj\Debug\net8.0\Namespaces_and_Assemblies.dll
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\obj\Debug\net8.0\refint\Namespaces_and_Assemblies.dll
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\obj\Debug\net8.0\Namespaces_and_Assemblies.pdb
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\obj\Debug\net8.0\Namespaces_and_Assemblies.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Namespaces_and_Assemblies\obj\Debug\net8.0\ref\Namespaces_and_Assemblies.dll
