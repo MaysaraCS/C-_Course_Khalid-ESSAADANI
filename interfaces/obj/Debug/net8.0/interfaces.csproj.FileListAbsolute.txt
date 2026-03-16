@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\interfaces\bin\Debug\net8.0\interfaces.exe
+D:\JOBS-2026\C#_Course\interfaces\bin\Debug\net8.0\interfaces.deps.json
+D:\JOBS-2026\C#_Course\interfaces\bin\Debug\net8.0\interfaces.runtimeconfig.json
+D:\JOBS-2026\C#_Course\interfaces\bin\Debug\net8.0\interfaces.dll
+D:\JOBS-2026\C#_Course\interfaces\bin\Debug\net8.0\interfaces.pdb
+D:\JOBS-2026\C#_Course\interfaces\obj\Debug\net8.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\interfaces\obj\Debug\net8.0\interfaces.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\interfaces\obj\Debug\net8.0\interfaces.sourcelink.json
+D:\JOBS-2026\C#_Course\interfaces\obj\Debug\net8.0\interfaces.dll
+D:\JOBS-2026\C#_Course\interfaces\obj\Debug\net8.0\refint\interfaces.dll
+D:\JOBS-2026\C#_Course\interfaces\obj\Debug\net8.0\interfaces.pdb
+D:\JOBS-2026\C#_Course\interfaces\obj\Debug\net8.0\interfaces.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\interfaces\obj\Debug\net8.0\ref\interfaces.dll
