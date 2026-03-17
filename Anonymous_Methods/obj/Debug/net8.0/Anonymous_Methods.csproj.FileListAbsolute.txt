@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\Anonymous_Methods\bin\Debug\net8.0\Anonymous_Methods.exe
+D:\JOBS-2026\C#_Course\Anonymous_Methods\bin\Debug\net8.0\Anonymous_Methods.deps.json
+D:\JOBS-2026\C#_Course\Anonymous_Methods\bin\Debug\net8.0\Anonymous_Methods.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Anonymous_Methods\bin\Debug\net8.0\Anonymous_Methods.dll
+D:\JOBS-2026\C#_Course\Anonymous_Methods\bin\Debug\net8.0\Anonymous_Methods.pdb
+D:\JOBS-2026\C#_Course\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.sourcelink.json
+D:\JOBS-2026\C#_Course\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.dll
+D:\JOBS-2026\C#_Course\Anonymous_Methods\obj\Debug\net8.0\refint\Anonymous_Methods.dll
+D:\JOBS-2026\C#_Course\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.pdb
+D:\JOBS-2026\C#_Course\Anonymous_Methods\obj\Debug\net8.0\Anonymous_Methods.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Anonymous_Methods\obj\Debug\net8.0\ref\Anonymous_Methods.dll
