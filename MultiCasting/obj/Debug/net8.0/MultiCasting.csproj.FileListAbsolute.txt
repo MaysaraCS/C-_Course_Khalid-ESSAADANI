@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\MultiCasting\bin\Debug\net8.0\MultiCasting.exe
+D:\JOBS-2026\C#_Course\MultiCasting\bin\Debug\net8.0\MultiCasting.deps.json
+D:\JOBS-2026\C#_Course\MultiCasting\bin\Debug\net8.0\MultiCasting.runtimeconfig.json
+D:\JOBS-2026\C#_Course\MultiCasting\bin\Debug\net8.0\MultiCasting.dll
+D:\JOBS-2026\C#_Course\MultiCasting\bin\Debug\net8.0\MultiCasting.pdb
+D:\JOBS-2026\C#_Course\MultiCasting\obj\Debug\net8.0\MultiCasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\MultiCasting\obj\Debug\net8.0\MultiCasting.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\MultiCasting\obj\Debug\net8.0\MultiCasting.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\MultiCasting\obj\Debug\net8.0\MultiCasting.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\MultiCasting\obj\Debug\net8.0\MultiCasting.sourcelink.json
+D:\JOBS-2026\C#_Course\MultiCasting\obj\Debug\net8.0\MultiCasting.dll
+D:\JOBS-2026\C#_Course\MultiCasting\obj\Debug\net8.0\refint\MultiCasting.dll
+D:\JOBS-2026\C#_Course\MultiCasting\obj\Debug\net8.0\MultiCasting.pdb
+D:\JOBS-2026\C#_Course\MultiCasting\obj\Debug\net8.0\MultiCasting.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\MultiCasting\obj\Debug\net8.0\ref\MultiCasting.dll
