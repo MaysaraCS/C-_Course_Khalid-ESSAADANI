@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\Lambda\bin\Debug\net8.0\Lambda.exe
+D:\JOBS-2026\C#_Course\Lambda\bin\Debug\net8.0\Lambda.deps.json
+D:\JOBS-2026\C#_Course\Lambda\bin\Debug\net8.0\Lambda.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Lambda\bin\Debug\net8.0\Lambda.dll
+D:\JOBS-2026\C#_Course\Lambda\bin\Debug\net8.0\Lambda.pdb
+D:\JOBS-2026\C#_Course\Lambda\obj\Debug\net8.0\Lambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Lambda\obj\Debug\net8.0\Lambda.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Lambda\obj\Debug\net8.0\Lambda.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Lambda\obj\Debug\net8.0\Lambda.sourcelink.json
+D:\JOBS-2026\C#_Course\Lambda\obj\Debug\net8.0\Lambda.dll
+D:\JOBS-2026\C#_Course\Lambda\obj\Debug\net8.0\refint\Lambda.dll
+D:\JOBS-2026\C#_Course\Lambda\obj\Debug\net8.0\Lambda.pdb
+D:\JOBS-2026\C#_Course\Lambda\obj\Debug\net8.0\Lambda.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Lambda\obj\Debug\net8.0\ref\Lambda.dll
