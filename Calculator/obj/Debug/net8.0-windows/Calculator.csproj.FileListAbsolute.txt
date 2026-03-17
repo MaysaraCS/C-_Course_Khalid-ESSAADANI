@@ -1,0 +1,17 @@
+D:\JOBS-2026\C#_Course\Calculator\bin\Debug\net8.0-windows\Calculator.exe
+D:\JOBS-2026\C#_Course\Calculator\bin\Debug\net8.0-windows\Calculator.deps.json
+D:\JOBS-2026\C#_Course\Calculator\bin\Debug\net8.0-windows\Calculator.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Calculator\bin\Debug\net8.0-windows\Calculator.dll
+D:\JOBS-2026\C#_Course\Calculator\bin\Debug\net8.0-windows\Calculator.pdb
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\Calculator.Form1.resources
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.GenerateResource.cache
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\Calculator.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\Calculator.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\Calculator.sourcelink.json
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\Calculator.dll
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\refint\Calculator.dll
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\Calculator.pdb
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\Calculator.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Calculator\obj\Debug\net8.0-windows\ref\Calculator.dll
