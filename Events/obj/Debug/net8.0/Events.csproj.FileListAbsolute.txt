@@ -1,0 +1,15 @@
+D:\JOBS-2026\C#_Course\Events\bin\Debug\net8.0\Events.exe
+D:\JOBS-2026\C#_Course\Events\bin\Debug\net8.0\Events.deps.json
+D:\JOBS-2026\C#_Course\Events\bin\Debug\net8.0\Events.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Events\bin\Debug\net8.0\Events.dll
+D:\JOBS-2026\C#_Course\Events\bin\Debug\net8.0\Events.pdb
+D:\JOBS-2026\C#_Course\Events\obj\Debug\net8.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Events\obj\Debug\net8.0\Events.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Events\obj\Debug\net8.0\Events.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Events\obj\Debug\net8.0\Events.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Events\obj\Debug\net8.0\Events.sourcelink.json
+D:\JOBS-2026\C#_Course\Events\obj\Debug\net8.0\Events.dll
+D:\JOBS-2026\C#_Course\Events\obj\Debug\net8.0\refint\Events.dll
+D:\JOBS-2026\C#_Course\Events\obj\Debug\net8.0\Events.pdb
+D:\JOBS-2026\C#_Course\Events\obj\Debug\net8.0\Events.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Events\obj\Debug\net8.0\ref\Events.dll
