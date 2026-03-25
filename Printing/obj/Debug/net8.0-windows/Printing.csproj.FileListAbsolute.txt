@@ -1,0 +1,17 @@
+D:\JOBS-2026\C#_Course\Printing\bin\Debug\net8.0-windows\Printing.exe
+D:\JOBS-2026\C#_Course\Printing\bin\Debug\net8.0-windows\Printing.deps.json
+D:\JOBS-2026\C#_Course\Printing\bin\Debug\net8.0-windows\Printing.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Printing\bin\Debug\net8.0-windows\Printing.dll
+D:\JOBS-2026\C#_Course\Printing\bin\Debug\net8.0-windows\Printing.pdb
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\Printing.Form1.resources
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\Printing.csproj.GenerateResource.cache
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\Printing.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\Printing.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\Printing.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\Printing.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\Printing.sourcelink.json
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\Printing.dll
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\refint\Printing.dll
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\Printing.pdb
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\Printing.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Printing\obj\Debug\net8.0-windows\ref\Printing.dll

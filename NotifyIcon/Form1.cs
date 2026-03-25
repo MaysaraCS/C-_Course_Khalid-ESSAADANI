@@ -26,5 +26,18 @@ namespace NotifyIcon
         {
             MessageBox.Show("Hello NotifyIcon");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            openFileDialog1.Filter = "Images Files |*.JPG; |*.PNG; |*.GIF;";
+            //openFileDialog1.ShowDialog();
+            openFileDialog1.InitialDirectory = "D:\\";
+            if (openFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+                this.BackgroundImage = Image.FromFile(openFileDialog1.FileName);
+                this.BackgroundImageLayout = ImageLayout.Stretch;
+
+            }
+        }
     }
 }

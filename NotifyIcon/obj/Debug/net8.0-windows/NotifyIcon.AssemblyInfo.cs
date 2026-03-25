@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NotifyIcon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22053028389bc1a0e7f711e007b4c68a20ac0675")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3ccef2547694a7460c7cc45a25dfb616a7c9ca4")]
 [assembly: System.Reflection.AssemblyProductAttribute("NotifyIcon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NotifyIcon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

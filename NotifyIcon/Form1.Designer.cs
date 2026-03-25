@@ -33,6 +33,8 @@
             contextMenuStrip1 = new ContextMenuStrip(components);
             aboutProgramToolStripMenuItem = new ToolStripMenuItem();
             exitToolStripMenuItem = new ToolStripMenuItem();
+            openFileDialog1 = new OpenFileDialog();
+            button1 = new Button();
             contextMenuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -63,11 +65,22 @@
             exitToolStripMenuItem.Text = "Exit";
             exitToolStripMenuItem.Click += exitToolStripMenuItem_Click;
             // 
+            // button1
+            // 
+            button1.Location = new Point(626, 357);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 1;
+            button1.Text = "OpenFile";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button1);
             Name = "Form1";
             Text = "Form1";
             contextMenuStrip1.ResumeLayout(false);
@@ -80,5 +93,7 @@
         private ContextMenuStrip contextMenuStrip1;
         private ToolStripMenuItem aboutProgramToolStripMenuItem;
         private ToolStripMenuItem exitToolStripMenuItem;
+        private OpenFileDialog openFileDialog1;
+        private Button button1;
     }
 }
