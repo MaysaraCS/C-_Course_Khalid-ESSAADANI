@@ -1,0 +1,17 @@
+D:\JOBS-2026\C#_Course\Bars\bin\Debug\net8.0-windows\Bars.exe
+D:\JOBS-2026\C#_Course\Bars\bin\Debug\net8.0-windows\Bars.deps.json
+D:\JOBS-2026\C#_Course\Bars\bin\Debug\net8.0-windows\Bars.runtimeconfig.json
+D:\JOBS-2026\C#_Course\Bars\bin\Debug\net8.0-windows\Bars.dll
+D:\JOBS-2026\C#_Course\Bars\bin\Debug\net8.0-windows\Bars.pdb
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\Bars.Form1.resources
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\Bars.csproj.GenerateResource.cache
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\Bars.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\Bars.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\Bars.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\Bars.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\Bars.sourcelink.json
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\Bars.dll
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\refint\Bars.dll
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\Bars.pdb
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\Bars.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\Bars\obj\Debug\net8.0-windows\ref\Bars.dll

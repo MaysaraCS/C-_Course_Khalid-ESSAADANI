@@ -1,0 +1,17 @@
+D:\JOBS-2026\C#_Course\NotifyIcon\bin\Debug\net8.0-windows\NotifyIcon.exe
+D:\JOBS-2026\C#_Course\NotifyIcon\bin\Debug\net8.0-windows\NotifyIcon.deps.json
+D:\JOBS-2026\C#_Course\NotifyIcon\bin\Debug\net8.0-windows\NotifyIcon.runtimeconfig.json
+D:\JOBS-2026\C#_Course\NotifyIcon\bin\Debug\net8.0-windows\NotifyIcon.dll
+D:\JOBS-2026\C#_Course\NotifyIcon\bin\Debug\net8.0-windows\NotifyIcon.pdb
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.Form1.resources
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.csproj.GenerateResource.cache
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.sourcelink.json
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.dll
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\refint\NotifyIcon.dll
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.pdb
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\NotifyIcon\obj\Debug\net8.0-windows\ref\NotifyIcon.dll

@@ -91,5 +91,10 @@ namespace TreeView
         {
             MessageBox.Show("This Program is mine ", "About", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
+
+        private void toolStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
     }
 }

@@ -54,7 +54,7 @@
             treeView1.CheckBoxes = true;
             treeView1.ImageIndex = 0;
             treeView1.ImageList = imageList1;
-            treeView1.Location = new Point(12, 57);
+            treeView1.Location = new Point(12, 64);
             treeView1.Name = "treeView1";
             treeView1.SelectedImageIndex = 0;
             treeView1.Size = new Size(252, 152);
@@ -73,14 +73,14 @@
             // 
             listBox1.FormattingEnabled = true;
             listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(375, 57);
+            listBox1.Location = new Point(375, 64);
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(142, 154);
             listBox1.TabIndex = 1;
             // 
             // button1
             // 
-            button1.Location = new Point(283, 122);
+            button1.Location = new Point(283, 129);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 2;
@@ -91,7 +91,7 @@
             // listView1
             // 
             listView1.LargeImageList = imageList2;
-            listView1.Location = new Point(12, 277);
+            listView1.Location = new Point(12, 284);
             listView1.Name = "listView1";
             listView1.Size = new Size(252, 138);
             listView1.SmallImageList = imageList2;
@@ -111,7 +111,7 @@
             comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
             comboBox1.FormattingEnabled = true;
             comboBox1.Items.AddRange(new object[] { "LargeIcon", "Details", "SmallIcon", "List", "Title" });
-            comboBox1.Location = new Point(143, 248);
+            comboBox1.Location = new Point(143, 255);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(121, 23);
             comboBox1.TabIndex = 4;
@@ -120,7 +120,7 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(99, 251);
+            label1.Location = new Point(99, 258);
             label1.Name = "label1";
             label1.Size = new Size(34, 15);
             label1.TabIndex = 5;
@@ -145,24 +145,24 @@
             // openFileToolStripMenuItem
             // 
             openFileToolStripMenuItem.Name = "openFileToolStripMenuItem";
-            openFileToolStripMenuItem.Size = new Size(180, 22);
+            openFileToolStripMenuItem.Size = new Size(124, 22);
             openFileToolStripMenuItem.Text = "Open File";
             // 
             // saveFileToolStripMenuItem
             // 
             saveFileToolStripMenuItem.Name = "saveFileToolStripMenuItem";
-            saveFileToolStripMenuItem.Size = new Size(180, 22);
+            saveFileToolStripMenuItem.Size = new Size(124, 22);
             saveFileToolStripMenuItem.Text = "Save File";
             // 
             // toolStripSeparator1
             // 
             toolStripSeparator1.Name = "toolStripSeparator1";
-            toolStripSeparator1.Size = new Size(177, 6);
+            toolStripSeparator1.Size = new Size(121, 6);
             // 
             // exitToolStripMenuItem
             // 
             exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            exitToolStripMenuItem.Size = new Size(180, 22);
+            exitToolStripMenuItem.Size = new Size(124, 22);
             exitToolStripMenuItem.Text = "Exit";
             exitToolStripMenuItem.Click += exitToolStripMenuItem_Click;
             // 
