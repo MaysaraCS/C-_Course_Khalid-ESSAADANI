@@ -1,0 +1,17 @@
+D:\JOBS-2026\C#_Course\files\bin\Debug\net8.0-windows\files.exe
+D:\JOBS-2026\C#_Course\files\bin\Debug\net8.0-windows\files.deps.json
+D:\JOBS-2026\C#_Course\files\bin\Debug\net8.0-windows\files.runtimeconfig.json
+D:\JOBS-2026\C#_Course\files\bin\Debug\net8.0-windows\files.dll
+D:\JOBS-2026\C#_Course\files\bin\Debug\net8.0-windows\files.pdb
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\files.Form1.resources
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\files.csproj.GenerateResource.cache
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\files.GeneratedMSBuildEditorConfig.editorconfig
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\files.AssemblyInfoInputs.cache
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\files.AssemblyInfo.cs
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\files.csproj.CoreCompileInputs.cache
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\files.sourcelink.json
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\files.dll
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\refint\files.dll
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\files.pdb
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\files.genruntimeconfig.cache
+D:\JOBS-2026\C#_Course\files\obj\Debug\net8.0-windows\ref\files.dll
